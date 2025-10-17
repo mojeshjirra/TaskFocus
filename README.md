@@ -15,12 +15,17 @@ Additional features: Filtering tasks, clearing all tasks, and validating input t
 
 Live deployment: By the end, you’ll deploy the app to platforms like GitHub Pages or Netlify, making it accessible to everyone.
 
+
 Requirements for TaskBuddy Project 📝
 
 Name: TaskBuddy
+
+
 Type: Task Management Application
 
+
 Core Features
+
 Task Input Form
 
 Add tasks with an input field and a submit button.
@@ -43,11 +48,13 @@ Implement a visual progress tracker that shows the percentage of tasks completed
 
 Update the progress dynamically as tasks are marked as complete or pending.
 
+
 Task History:
 
 Allow users to view a history of completed tasks.
 
 Provide an option to restore or delete tasks from the history, giving users control over their task management.
+
 
 Technical Requirements:
 
@@ -58,6 +65,7 @@ Data Storage: localStorage
 Version Control: Git and GitHub for version tracking
 
 Deployment: Deploy on GitHub Pages or Netlify
+
 
 Required Tools:
 
